@@ -1,5 +1,5 @@
 // Palo Alto PanOS Syslog Parser
-// Last Updated Date: July 12, 2023
+// Last Updated Date: July 18, 2023
 //Pan-OS Version: 11.0
 //
 //
